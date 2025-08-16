@@ -1,1 +1,3 @@
 # UpcycleHer
+
+UpcycleHer is an AI-powered web app that empowers community members to transform everyday waste into creative and sustainable DIY projects. Built with a custom Roboflow object detection model trained on over 2,000 images, the platform identifies five common disposable items, such as plastic, glass, cardboard, and metal, and suggests inventive upcycling ideas. Users simply scan an item, from a live webcam and within moments, they receive multiple project options complete with step-by-step instructions, difficulty levels, and community ratings. Ideas range from turning glass jars into candle holders to repurposing cardboard into drawer organizers. UpcycleHer empowers women and households to live more sustainably with accessible and instant AI technology!
